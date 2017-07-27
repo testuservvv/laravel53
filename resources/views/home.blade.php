@@ -18,7 +18,7 @@
     <meta name="twitter:site" content="@laraadmin" />
     <meta name="twitter:creator" content="@laraadmin" />
 
-    <title>{{ LAConfigs::getByKey('sitename') }}</title>
+{{--    <title>{{ LAConfigs::getByKey('sitename') }}</title>--}}
 
     <!-- Bootstrap core CSS -->
     <link href="{{ asset('/la-assets/css/bootstrap.css') }}" rel="stylesheet">
